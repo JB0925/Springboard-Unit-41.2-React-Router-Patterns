@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot tests for each component The App component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="ColorLinks"
+    >
+      <nav>
+        <h1>
+          Welcome to the Color Factory!
+        </h1>
+        <button>
+          Add Color
+        </button>
+      </nav>
+      <h2>
+        Please Select a Color
+      </h2>
+      <ul />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`snapshot tests for each component The ColorLinks component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ColorPage"
+    style="height: 100vh; width: 100vw;"
+  >
+    <h1>
+      This page is !!!
+    </h1>
+    <a
+      href="/colors"
+    >
+      GO BACK
+    </a>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`snapshot tests for each component The Navbar component matches the snapshot 1`] = `
+<DocumentFragment>
+  <nav>
+    <h1>
+      Welcome to the Color Factory!
+    </h1>
+    <button>
+      Add Color
+    </button>
+  </nav>
+</DocumentFragment>
+`;

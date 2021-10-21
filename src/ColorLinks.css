@@ -1,0 +1,12 @@
+.ColorLinks {
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul a {
+    font-size: 1.8rem;
+    color: black;
+}
