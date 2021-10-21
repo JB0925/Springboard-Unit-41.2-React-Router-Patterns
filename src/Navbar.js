@@ -1,5 +1,6 @@
 import React from "react";
 import { useSetFormState, useSubmitState } from "./hooks/hooks";
+import "./Navbar.css";
 
 const Navbar = ({ addColor }) => {
     const [formData, updateForm, submitForm] = useSetFormState();

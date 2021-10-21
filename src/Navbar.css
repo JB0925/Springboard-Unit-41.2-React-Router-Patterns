@@ -1,0 +1,31 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darkslateblue;
+}
+
+nav h1 {
+    color: white;
+    font-size: 1.8rem;
+}
+
+nav button {
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+label {
+    color: white;
+}
+
+input {
+    margin-left: 25px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
